@@ -1,5 +1,4 @@
-# Setting<p>  <br />
-</p>up-Elastic-(ELK)-Stack-to-AWS-EC2
+# Setting<p></p>up-Elastic-(ELK)-Stack-to-AWS-EC2
 ## ---Steps---
 ## Create an EC2 instance
 ## Install Java
