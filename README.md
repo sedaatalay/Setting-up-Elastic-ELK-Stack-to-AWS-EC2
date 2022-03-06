@@ -50,6 +50,9 @@ ssh -i <pem file name> ubuntu@public-dns-name
 ```
 <img width="814" alt="Ekran Resmi 2022-03-06 01 52 09" src="https://user-images.githubusercontent.com/91700155/156904342-ddb0507e-ba74-40ae-baa1-a6f9f007a9c8.png">
 
+<p>  <br />
+</p>
+
 ## Install Java
 ```console
 sudo apt-get install default-jre
