@@ -60,10 +60,8 @@ java -version
 ```
 <img width="1029" alt="Ekran Resmi 2022-03-06 01 53 40" src="https://user-images.githubusercontent.com/91700155/156904352-cc9a2243-7a97-446a-9e94-11c77fe9b5eb.png">
 
-```
-```
-```
-```
+<p>   <br />
+</p>
         
 ## Install Elasticsearch
 ### Add the repository key
@@ -133,10 +131,8 @@ sudo systemctl stop elastic search
 sudo service stop elastic call
 ```
 
-##
-##
-##
-
+<p>  <br />
+</p>
 
 ## Install Logstash
 ```console
@@ -178,6 +174,8 @@ sudo curl -XGET '<Your Public IPv4 DNS>:9200/_cat/indices?v&pretty'
 ```
 <img width="955" alt="Ekran Resmi 2022-03-06 02 19 44" src="https://user-images.githubusercontent.com/91700155/156904467-9dafadd1-8f78-476a-8864-4159ac66dcfc.png">
 
+<p>  <br />
+</p>
 
 ## Install Kibana
 ```console
@@ -210,6 +208,7 @@ http://<Your Public IPv4 DNS>:5601
 <img width="1398" alt="Ekran Resmi 2022-03-06 02 25 27" src="https://user-images.githubusercontent.com/91700155/156904507-33203d0d-3f9d-4aca-9e35-b0c9fe861b42.png">
 
 
-    
+<p>  <br />
+</p>
     
 #### Seda Atalay
