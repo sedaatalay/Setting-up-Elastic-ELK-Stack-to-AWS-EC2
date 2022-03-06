@@ -61,10 +61,11 @@ java -version
 ```
 <img width="1029" alt="Ekran Resmi 2022-03-06 01 53 40" src="https://user-images.githubusercontent.com/91700155/156904352-cc9a2243-7a97-446a-9e94-11c77fe9b5eb.png">
 
-##
-##
-##
-
+```
+```
+```
+```
+        
 ## Install Elasticsearch
 ### Add the repository key
 ```console
@@ -103,7 +104,6 @@ cluster.initial_master_nodes: ["node-1"]
 ```console
 sudo nano /etc/elasticsearch/jvm.options
 ```
-<img width="878" alt="Ekran Resmi 2022-03-06 02 12 25" src="https://user-images.githubusercontent.com/91700155/156904417-4c419d33-81c9-45d0-92fc-d9e9124157d2.png">
 
 ##### Remove the "#" at the beginning of the line and the parts which are in red highlights are the changes to be done.
 ```console
