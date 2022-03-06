@@ -6,7 +6,7 @@
 ## Install Logstash
 ## Install Kibana
 
-<p> <br />
+<p>  <br />
 </p>
 
 ## Create an EC2 instance
