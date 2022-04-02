@@ -94,6 +94,7 @@ sudo nano /etc/elasticsearch/elasticsearch.yml
 node.name: node-1
 network.host: "localhost" (Your Public IPv4 DNS)
 http.port: 9200
+discovery.seed_hosts: []
 cluster.initial_master_nodes: ["node-1"]
 ```
 <img width="879" alt="Ekran Resmi 2022-03-06 02 03 15" src="https://user-images.githubusercontent.com/91700155/156904390-24477f50-6306-4eb0-8d37-d2d4812721d1.png">
